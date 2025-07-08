@@ -45,7 +45,7 @@ The final paper submitted on May 26, 2025 summarizes the research findings and m
 - Stata 15+.
 - All `.do` files should be run in the order specified by `0_master.do`.
 
-## References
+## Reference
 
 - Khoury, A., Leganza, T., & Masucci, T. (2023). *Health Professional Shortage Areas and Physician Location Decisions*. Working paper.
 
